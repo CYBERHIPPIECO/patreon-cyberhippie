@@ -1,11 +1,11 @@
 
 This is a Cyberhippie Collective Patreon repo containing all the source files and text for my Patreon profile.
 
-**URL:** www.patreon.com/cyberhippie
+> **URL:** www.patreon.com/cyberhippie
 
-**Name:** Cyberhippie Collective 
+> **Name:** Cyberhippie Collective 
 
-**Page Description:** is creating a collaborative workspace for game makers and lovers
+> **Page Description:** is creating a collaborative workspace for game makers and lovers
 
 **Category:** Games
 
