@@ -1,3 +1,24 @@
+Workshops & Tutorials
+
+Seriously supported / $2,000 per month
+I can fund half of my work thanks to your support. That makes it a lot easier to get additional funds from subsidies or crowd sourcing. That's wonderful!
+
+Fully Independent / $3,500 per month
+No need for grant writing or fundraising campaigns anymore! I can spend all my time on creating beautiful things that don't need to return any money. A dream come true!
+
+Exciting Collaborations / $6,000 per month
+I love collaborating with other people. But I find it important to pay them properly. With your support I can work with writers, composers, sound artists, animators, modelers, programmers and so on. Strong together!
+
+Monday Breeze Roundup Template
+
+Monday Breeze Roundup (20/02/17)
+
+Welcome to weekly Monday Breeze Roundup where we share a variety of interesting content about game development and the creative field found over the last week. Let's do this!
+
++ 5 links with images
+
+Hopefully this week's selection inspires you in some way. We would like to encourage you to share your own links and opinions below. After all we are all one community here. Let's get the creative juices flowing.
+
 Weekly Update (11th April 2016)
 
 Hello my dearest tribe!
@@ -89,3 +110,46 @@ See you on stream & have a great day!
 Lots of hugs,
 
 @mothnode
+
+Discord access
+ Milestones
+ Updated tier text
+ Set up the Discord channel properly
+ Put Discord roles into Patreon tiers
+New Website
+Developer's Easter Egg
+Annual Fundraising Campaign & Patreon Drive
+The Pinecone Monthly Vlog
+Weekly Freebies
+Halloween Celebrations
+New Year Tribal Celebrations
+Project Accomplished
+Monday Breeze Link Roundup
+Patreon Spotlight
+Postmortems
+Write a post about the new website and your plans for it
+Be sure to sound like you provide value to your customers
+Make $1, $3, $5, $7 reward tiers
+Public posts?
+Beta launch - send your friends and family an e-mail about how excited you are to get back on Patreon and
+ask for feedback they have about the page.
+6.07.2017 Main Page on Control Center | Trello
+https://trello.com/c/ijOaAL96/326-main-page 5/5
+What you can do: Pick a date, create an expiring incentive, and let them get excited with you.
+What you can do: Beat post paralysis by getting the word out everywhere and as often as possible.
+What you can do: Ditch the captions and put clear, concise calls-to-action directly on the image.
+What you can do: Remember to pause and celebrate the wins with your community, whether it’s through a
+tweet that takes 10 seconds or a dance that takes little to no choreography.
+Make the cheap rewards the best rewards: “Set up rewards in lower tiers that would be really exciting to
+people.” While a $100 pledge is always welcome, Nataly knows that most fans are likely to choose the
+lower reward tiers, so those should be widely attractive to the majority. Also vital to note, “since so many
+people pledge at the lower tiers, it’s important to make sure those perks don’t take too much of your time to
+fulfill or disrupt your workflow.”
+Let them put their name on it: Nataly dug into the old-school patronage playbook for a reward that was too
+enticing for fans to say no to: all patrons pledging before August 15th would get their name on the physical
+album.
+Post Schedule: Monthly Q&A - January 2017
+Fanjoy.co - Patreon goodie packs
+Make a Teespring tshirt
+Eventbrite for event tickets
+1% for the planet
