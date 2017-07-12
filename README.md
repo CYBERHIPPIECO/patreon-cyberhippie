@@ -15,7 +15,7 @@ This is a Cyberhippie Collective Patreon repo containing all the source files an
 
 # Milestones
 
-> $50 **Tending To The Fireplace:** I'll make an official website and be able to easily maintain our presence & projects (Squarespace, Dropbox, Trello).
+> $50 **Tending To The Fireplace:** I'll make an official website and be able to easily maintain our presence & projects (Squarespace, Dropbox, GitHub).
 
 > $200 **Event Supplies & Promo Material:** I'll have the cost of creation, promotion and logistics of a monthly event covered. This will give me courage to make this Patreon the best online and local community possible.
 
